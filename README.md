@@ -1,5 +1,3 @@
 # ReactBatchCode
 
-This is example codes for explanation.
-Author - (shekhar - singh)
-UserId - 241
+This is example codes for explanation
